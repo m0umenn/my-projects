@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706724925 source:c:\users\dell\desktop\algo\merge\main.c
+	<stdio.h>
+	<stdlib.h>
+

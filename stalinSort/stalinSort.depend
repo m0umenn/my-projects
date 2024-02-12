@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706915416 source:c:\users\dell\desktop\algo\stalinsort\main.c
+	<stdio.h>
+	<stdlib.h>
+

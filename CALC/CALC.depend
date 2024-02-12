@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706542604 source:c:\users\menco\onedrive\desktop\projects of c\calc\main.c
+	<stdio.h>
+	<stdlib.h>
+
